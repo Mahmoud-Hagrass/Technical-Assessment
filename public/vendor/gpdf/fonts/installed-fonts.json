@@ -1,0 +1,117 @@
+{
+    "sans-serif": {
+        "normal": "Helvetica",
+        "bold": "Helvetica-Bold",
+        "italic": "Helvetica-Oblique",
+        "bold_italic": "Helvetica-BoldOblique"
+    },
+    "times": {
+        "normal": "Times-Roman",
+        "bold": "Times-Bold",
+        "italic": "Times-Italic",
+        "bold_italic": "Times-BoldItalic"
+    },
+    "times-roman": {
+        "normal": "Times-Roman",
+        "bold": "Times-Bold",
+        "italic": "Times-Italic",
+        "bold_italic": "Times-BoldItalic"
+    },
+    "courier": {
+        "normal": "Courier",
+        "bold": "Courier-Bold",
+        "italic": "Courier-Oblique",
+        "bold_italic": "Courier-BoldOblique"
+    },
+    "helvetica": {
+        "normal": "Helvetica",
+        "bold": "Helvetica-Bold",
+        "italic": "Helvetica-Oblique",
+        "bold_italic": "Helvetica-BoldOblique"
+    },
+    "zapfdingbats": {
+        "normal": "ZapfDingbats",
+        "bold": "ZapfDingbats",
+        "italic": "ZapfDingbats",
+        "bold_italic": "ZapfDingbats"
+    },
+    "symbol": {
+        "normal": "Symbol",
+        "bold": "Symbol",
+        "italic": "Symbol",
+        "bold_italic": "Symbol"
+    },
+    "serif": {
+        "normal": "Times-Roman",
+        "bold": "Times-Bold",
+        "italic": "Times-Italic",
+        "bold_italic": "Times-BoldItalic"
+    },
+    "monospace": {
+        "normal": "Courier",
+        "bold": "Courier-Bold",
+        "italic": "Courier-Oblique",
+        "bold_italic": "Courier-BoldOblique"
+    },
+    "fixed": {
+        "normal": "Courier",
+        "bold": "Courier-Bold",
+        "italic": "Courier-Oblique",
+        "bold_italic": "Courier-BoldOblique"
+    },
+    "dejavu sans": {
+        "bold": "DejaVuSans-Bold",
+        "bold_italic": "DejaVuSans-BoldOblique",
+        "italic": "DejaVuSans-Oblique",
+        "normal": "DejaVuSans"
+    },
+    "dejavu sans mono": {
+        "bold": "DejaVuSansMono-Bold",
+        "bold_italic": "DejaVuSansMono-BoldOblique",
+        "italic": "DejaVuSansMono-Oblique",
+        "normal": "DejaVuSansMono"
+    },
+    "dejavu serif": {
+        "bold": "DejaVuSerif-Bold",
+        "bold_italic": "DejaVuSerif-BoldItalic",
+        "italic": "DejaVuSerif-Italic",
+        "normal": "DejaVuSerif"
+    },
+    "almarai": {
+        "normal": "Almarai-Normal",
+        "bold": "Almarai-Bold",
+        "italic": "Almarai-Italic",
+        "bold_italic": "Almarai-BoldItalic"
+    },
+    "cairo": {
+        "normal": "Cairo-Normal",
+        "bold": "Cairo-Bold",
+        "italic": "Cairo-Italic",
+        "bold_italic": "Cairo-BoldItalic"
+    },
+    "noto naskh arabic": {
+        "normal": "NotoNaskhArabic-Normal",
+        "bold": "NotoNaskhArabic-Bold",
+        "italic": "NotoNaskhArabic-Italic",
+        "bold_italic": "NotoNaskhArabic-BoldItalic"
+    },
+    "markazi text": {
+        "normal": "MarkaziText-Normal",
+        "bold": "MarkaziText-Bold",
+        "italic": "MarkaziText-Italic",
+        "bold_italic": "MarkaziText-BoldItalic"
+    },
+    "tajawal": {
+        "normal": "Tajawal-Normal",
+        "bold": "Tajawal-Bold",
+        "italic": "Tajawal-Italic",
+        "bold_italic": "Tajawal-BoldItalic"
+    },
+    "inter": {
+        "normal": "C:\\laragon\\www\\technical-assessment\\public\\vendor\\gpdf\\fonts\/inter_normal_7328646baedbaa78df9d97328f97b2c0",
+        "500": "C:\\laragon\\www\\technical-assessment\\public\\vendor\\gpdf\\fonts\/inter_500_4efc23ce37e6e22aee754d42cd63ca44",
+        "600": "C:\\laragon\\www\\technical-assessment\\public\\vendor\\gpdf\\fonts\/inter_600_d63a7c0c8732180c323356ba08cac7d8",
+        "bold": "C:\\laragon\\www\\technical-assessment\\public\\vendor\\gpdf\\fonts\/inter_bold_c60e16028ab46ac4c30f16a14b5aab03",
+        "800": "inter_800_8c2f43bfac7296d1b10bfd326a682458"
+    }
+}
